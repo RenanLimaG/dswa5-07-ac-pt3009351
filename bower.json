@@ -1,5 +1,5 @@
 {
-  "name": "dswa5-05-ac-pt3009351",
+  "name": "dswa5-07-ac-pt3009351",
   "description": "AngularJS",
   "main": "index.js",
   "authors": [
@@ -9,7 +9,7 @@
   "keywords": [
     "DSWA5"
   ],
-  "homepage": "https://github.com/RenanLimaG/dswa5-05-ac-pt3009351",
+  "homepage": "https://github.com/RenanLimaG/dswa5-07-ac-pt3009351",
   "ignore": [
     "**/.*",
     "node_modules",
